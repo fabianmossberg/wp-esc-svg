@@ -24,7 +24,3 @@ Display escaped svg.
 
 ## Version
 1.0.0 - First release.
-
-```
-esc_svg();
-```
