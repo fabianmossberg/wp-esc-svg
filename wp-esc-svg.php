@@ -53,7 +53,7 @@ if ( ! function_exists( 'esc_svg' ) ) {
 				'xmlns'           => true,
 				'width'           => true,
 				'height'          => true,
-				'viewbox'         => true, // <= Must be lower case!
+				'viewbox'         => true,
 			),
 			'g'     => array( 'fill' => true ),
 			'title' => array( 'title' => true ),
