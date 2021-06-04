@@ -7,14 +7,14 @@ Escape and display an inline svg.
 
 Download this repo as a zip, upload it to plugins in WordPress.
 
-## `esc_svg()`
+## `esc_svg`
 
 ```php
-esc_svg( string $inline_svg, $echo = false);
+esc_svg( string $inline_svg, boolean $echo = false);
 ```
 Escaping an svg image.
 
-## `esc_svg_e()`
+## `esc_svg_e`
 
 ```php
 esc_svg_e( string $inline_svg);
