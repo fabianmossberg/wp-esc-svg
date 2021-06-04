@@ -2,8 +2,6 @@
 /**
  * WordPress esc_svg
  *
- * This plugin adds the functions esc_svg and esc_svg_e to WordPress.
- *
  * @link              https://mossberg.xyz/esc-svg/
  * @since             1.0.0
  * @package           Esc_Svg
@@ -11,7 +9,7 @@
  * @wordpress-plugin
  * Plugin Name:       esc_svg
  * Plugin URI:        https://github.com/fabianmossberg/wp-esc-svg
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       This plugin adds the functions esc_svg and esc_svg_e to WordPress.
  * Version:           1.0.0
  * Author:            Fabian Mossberg <fabian@mossberg.xyz>
  * Author URI:        https://mossberg.xyz
