@@ -2,7 +2,7 @@
 /**
  * WordPress esc_svg
  *
- * @link              https://mossberg.xyz/esc-svg/
+ * @link              https://github.com/fabianmossberg/wp-esc-svg
  * @since             1.0.0
  * @package           Esc_Svg
  *
